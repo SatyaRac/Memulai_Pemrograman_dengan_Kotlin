@@ -5,12 +5,14 @@ class Cat(private val name: String) {
     fun toSleep() {
         println()
     }
+
+
 }
 
 fun main() {
 
     // TODO 2
-    val gippy = Cat("")
+    val gippy = Cat("Gippy")
 
     gippy.toSleep()
     gippy.sleep = true

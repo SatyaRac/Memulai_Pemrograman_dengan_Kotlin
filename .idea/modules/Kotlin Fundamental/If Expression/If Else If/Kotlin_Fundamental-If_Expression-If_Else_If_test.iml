@@ -2,7 +2,7 @@
 <module external.linked.project.id=":Kotlin_Fundamental-If_Expression-If_Else_If:test" external.linked.project.path="$MODULE_DIR$/../../../../../Kotlin Fundamental/If Expression/If Else If" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Memulai_Pemrograman_dengan_Kotlin" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet type="kotlin-language" name="Kotlin">
-      <configuration version="3" platform="JVM 1.8" useProjectSettings="false">
+      <configuration version="3" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false" pureKotlinSourceFolders="$MODULE_DIR$/../../../../../Kotlin Fundamental/If Expression/If Else If/src/test/kotlin;/home/satya/IdeaProjects/Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/If Expression/If Else If/src/main/kotlin">
         <compilerSettings>
           <option name="additionalArguments" value="-Xallow-no-source-files" />
         </compilerSettings>
