@@ -2564,7 +2564,7 @@
                                       <option name="answerPlaceholders">
                                         <list />
                                       </option>
-                                      <option name="highlightErrors" value="false" />
+                                      <option name="highlightErrors" value="true" />
                                       <option name="name" value="src/Task.kt" />
                                       <option name="text" value="fun main() {&#10;    val listNumber = 1.rangeTo(30)&#10;&#10;    for (number in listNumber) {&#10;        // TODO 1&#10;        if (false) continue&#10;&#10;        // TODO 2&#10;        if (false) break&#10;&#10;        // TODO 3&#10;        val result = 0&#10;        println(&quot;result is $result&quot;)&#10;    }&#10;}" />
                                       <option name="trackChanges" value="true" />
