@@ -162,7 +162,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="Latihan 2" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Failed" />
                             <option name="files">
                               <map>
                                 <entry key="src/Task.kt">
@@ -236,7 +236,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Hello Kotlin 1" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -271,7 +271,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="Hello Kotlin 2" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -318,7 +318,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Character" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -353,7 +353,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="String" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -388,7 +388,7 @@
                             <option name="index" value="3" />
                             <option name="name" value="Char in String" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -423,7 +423,7 @@
                             <option name="index" value="4" />
                             <option name="name" value="Escaped String" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -458,7 +458,7 @@
                             <option name="index" value="5" />
                             <option name="name" value="Unicode String" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -493,7 +493,7 @@
                             <option name="index" value="6" />
                             <option name="name" value="Raw String" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -528,7 +528,7 @@
                             <option name="index" value="7" />
                             <option name="name" value="Array Initialization" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -563,7 +563,7 @@
                             <option name="index" value="8" />
                             <option name="name" value="Update Array" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -610,7 +610,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Function Initilization" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -657,7 +657,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="If" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -692,7 +692,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="If Else" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -727,7 +727,7 @@
                             <option name="index" value="3" />
                             <option name="name" value="If as a Expression" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -762,7 +762,7 @@
                             <option name="index" value="4" />
                             <option name="name" value="If Else If" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -809,7 +809,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Conjuction" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -844,7 +844,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="Disjunction" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -879,7 +879,7 @@
                             <option name="index" value="3" />
                             <option name="name" value="Negation" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -926,7 +926,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Number Initilization" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -961,7 +961,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="Number with max and min values" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -996,7 +996,7 @@
                             <option name="index" value="3" />
                             <option name="name" value="Number operation" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1031,7 +1031,7 @@
                             <option name="index" value="4" />
                             <option name="name" value="String to Number" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1078,7 +1078,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Nullable Types" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1125,7 +1125,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Safe Call Operator" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1160,7 +1160,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="Elvis Operator" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1207,7 +1207,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="String Template" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -6037,7 +6037,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Latihan" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Failed" />
                             <option name="files">
                               <map>
                                 <entry key="src/Task.kt">
@@ -6111,7 +6111,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Contoh 1" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -6146,7 +6146,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="Contoh 2" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -6181,7 +6181,7 @@
                             <option name="index" value="3" />
                             <option name="name" value="Contoh 3" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -6228,7 +6228,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Contoh" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -6275,7 +6275,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Latihan (1)" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/Task.kt">
@@ -6284,7 +6284,7 @@
                                       <option name="answerPlaceholders">
                                         <list />
                                       </option>
-                                      <option name="highlightErrors" value="false" />
+                                      <option name="highlightErrors" value="true" />
                                       <option name="name" value="src/Task.kt" />
                                       <option name="text" value="// Coming Soon&#10;fun main() {&#10;    val stringResult = getResult(&quot;Kotlin&quot;)&#10;    val intResult = getResult(100)&#10;&#10;    // TODO 2&#10;    println()&#10;}&#10;&#10;// TODO 1&#10;fun &lt;T&gt; getResult(args: T): Int {&#10;    return 0&#10;}" />
                                       <option name="trackChanges" value="true" />
@@ -6349,7 +6349,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Contoh 1" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -6384,7 +6384,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="Contoh 2" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -6419,7 +6419,7 @@
                             <option name="index" value="3" />
                             <option name="name" value="Contoh 3" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -6466,7 +6466,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Contoh 1" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -6501,7 +6501,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="Contoh 2" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -6536,7 +6536,7 @@
                             <option name="index" value="3" />
                             <option name="name" value="Contoh 3" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -6571,7 +6571,7 @@
                             <option name="index" value="4" />
                             <option name="name" value="Contoh 4" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -6606,7 +6606,7 @@
                             <option name="index" value="5" />
                             <option name="name" value="Contoh 5" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -6653,7 +6653,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Dispatcher.Default" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -6688,7 +6688,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="Dispatcher.IO" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -6723,7 +6723,7 @@
                             <option name="index" value="3" />
                             <option name="name" value="Dispatcher.Unconfined" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -6758,7 +6758,7 @@
                             <option name="index" value="4" />
                             <option name="name" value="Single Thread Context" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -6793,7 +6793,7 @@
                             <option name="index" value="5" />
                             <option name="name" value="Thread Pool" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -6840,7 +6840,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Contoh" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -6887,7 +6887,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Latihan" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Failed" />
                             <option name="files">
                               <map>
                                 <entry key="src/Task.kt">
@@ -6896,7 +6896,7 @@
                                       <option name="answerPlaceholders">
                                         <list />
                                       </option>
-                                      <option name="highlightErrors" value="false" />
+                                      <option name="highlightErrors" value="true" />
                                       <option name="name" value="src/Task.kt" />
                                       <option name="text" value="import kotlinx.coroutines.*&#10;&#10;// TODO 1&#10;fun sum(valueA: Int, valueB: Int): Int {&#10;    return 0&#10;}&#10;&#10;// TODO 2&#10;fun multiple(valueA: Int, valueB: Int): Int {&#10;    return 0&#10;}&#10;&#10;fun main() = runBlocking {&#10;&#10;    println(&quot;Counting...&quot;)&#10;&#10;    val resultSum = async { sum(10, 10) }&#10;    val resultMultiple = async { multiple(20, 20) }&#10;&#10;    // TODO 3&#10;    println()&#10;}" />
                                       <option name="trackChanges" value="true" />
