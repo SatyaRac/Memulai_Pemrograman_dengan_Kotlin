@@ -10,4 +10,4 @@ fun main() {
 }
 
 // TODO 1
-fun String.getFirstAndLast(): Map<String, Char> = mapOf("first" to this[0], "last" to this[this.lastIndex])
+fun Stideaing.getFirstAndLast(): Map<String, Char> = mapOf("first" to this[0], "last" to this[this.lastIndex])

@@ -7,16 +7,17 @@ fun main() {
     val resultB = calculate(valueA, valueB, null)
 
     println("""
-        $resultA
-        $resultB
+        resultA is $resultA
+        resultB is $resultB
     """.trimIndent())
 }
 
 fun calculate(valueA: Int, valueB: Int, valueC: Int?): String {
     // TODO 1
-    val result = 0
+    val valC = valueC ?: 100
+    val result = valueA + (valueB - valC)
     return generateResult(result)
 }
 
 // TODO 2
-fun generateResult(result: Int) = ""
+fun generateResult(result: Int) = "Result is $result"

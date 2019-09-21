@@ -1263,7 +1263,7 @@
                                       <option name="answerPlaceholders">
                                         <list />
                                       </option>
-                                      <option name="highlightErrors" value="false" />
+                                      <option name="highlightErrors" value="true" />
                                       <option name="name" value="src/Task.kt" />
                                       <option name="text" value="fun main() {&#10;    val valueA = 65&#10;    val valueB = 52&#10;    val valueC = 78&#10;&#10;    val resultA = calculate(valueA, valueB, valueC)&#10;    val resultB = calculate(valueA, valueB, null)&#10;&#10;    println(&quot;&quot;&quot;&#10;        $resultA&#10;        $resultB&#10;    &quot;&quot;&quot;.trimIndent())&#10;}&#10;&#10;fun calculate(valueA: Int, valueB: Int, valueC: Int?): String {&#10;    // TODO 1&#10;    val result = 0&#10;    return generateResult(result)&#10;}&#10;&#10;// TODO 2&#10;fun generateResult(result: Int) = &quot;&quot;" />
                                       <option name="trackChanges" value="true" />
@@ -1328,7 +1328,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Enumeration" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1363,7 +1363,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="Enum Object Value" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1398,7 +1398,7 @@
                             <option name="index" value="3" />
                             <option name="name" value="Anonymous Class in Enumeration" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1433,7 +1433,7 @@
                             <option name="index" value="4" />
                             <option name="name" value="All of Enum Object" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1468,7 +1468,7 @@
                             <option name="index" value="5" />
                             <option name="name" value="valueOf" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/Task.kt">
@@ -1503,7 +1503,7 @@
                             <option name="index" value="6" />
                             <option name="name" value="enumValues" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/Task.kt">
@@ -1538,7 +1538,7 @@
                             <option name="index" value="7" />
                             <option name="name" value="Enum Position" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/Task.kt">
@@ -1573,7 +1573,7 @@
                             <option name="index" value="8" />
                             <option name="name" value="Enumeration with When Expression" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1620,7 +1620,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="When" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1655,7 +1655,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="When with Else block" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1690,7 +1690,7 @@
                             <option name="index" value="3" />
                             <option name="name" value="When as a Expression" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1725,7 +1725,7 @@
                             <option name="index" value="4" />
                             <option name="name" value="Multiple statement in Condition block" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1760,7 +1760,7 @@
                             <option name="index" value="5" />
                             <option name="name" value="When with `is` operator" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1795,7 +1795,7 @@
                             <option name="index" value="6" />
                             <option name="name" value="When with Range as a Condition" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1830,7 +1830,7 @@
                             <option name="index" value="7" />
                             <option name="name" value="When subject" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1877,7 +1877,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Expression" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1912,7 +1912,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="Statement" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1959,7 +1959,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="While" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1994,7 +1994,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="Do While" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2029,7 +2029,7 @@
                             <option name="index" value="3" />
                             <option name="name" value="Infinite While" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2076,7 +2076,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="For Loop" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2111,7 +2111,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="For Loop with Range" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2146,7 +2146,7 @@
                             <option name="index" value="3" />
                             <option name="name" value="ForEach" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2181,7 +2181,7 @@
                             <option name="index" value="4" />
                             <option name="name" value="For Loop Index" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2216,7 +2216,7 @@
                             <option name="index" value="5" />
                             <option name="name" value="For Loop with Step Extension" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2251,7 +2251,7 @@
                             <option name="index" value="6" />
                             <option name="name" value="ForEachIndexed" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2286,7 +2286,7 @@
                             <option name="index" value="7" />
                             <option name="name" value="Range" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2321,7 +2321,7 @@
                             <option name="index" value="8" />
                             <option name="name" value="Range ForEach" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2356,7 +2356,7 @@
                             <option name="index" value="9" />
                             <option name="name" value="Range with `in` Operator" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2391,7 +2391,7 @@
                             <option name="index" value="10" />
                             <option name="name" value="Range with `!in` Operator" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2438,7 +2438,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Continue" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2473,7 +2473,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="Break" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2508,7 +2508,7 @@
                             <option name="index" value="3" />
                             <option name="name" value="Labels" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
