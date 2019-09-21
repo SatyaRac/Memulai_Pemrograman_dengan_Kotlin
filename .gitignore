@@ -1,0 +1,339 @@
+# Project exclude paths
+/.gradle/
+/Control Flow/Break and Continue/Break/build/
+/Control Flow/Break and Continue/Break/build/classes/java/main/
+/Control Flow/Break and Continue/Break/out/
+/Control Flow/Break and Continue/Continue/build/
+/Control Flow/Break and Continue/Continue/build/classes/java/main/
+/Control Flow/Break and Continue/Continue/out/
+/Control Flow/Break and Continue/Labels/build/
+/Control Flow/Break and Continue/Labels/build/classes/java/main/
+/Control Flow/Break and Continue/Labels/out/
+/Control Flow/Enumeration/All of Enum Object/build/
+/Control Flow/Enumeration/All of Enum Object/build/classes/java/main/
+/Control Flow/Enumeration/All of Enum Object/out/
+/Control Flow/Enumeration/Anonymous Class in Enumeration/build/
+/Control Flow/Enumeration/Anonymous Class in Enumeration/build/classes/java/main/
+/Control Flow/Enumeration/Anonymous Class in Enumeration/out/
+/Control Flow/Enumeration/Enum Object Value/build/
+/Control Flow/Enumeration/Enum Object Value/build/classes/java/main/
+/Control Flow/Enumeration/Enum Object Value/out/
+/Control Flow/Enumeration/Enum Position/build/
+/Control Flow/Enumeration/Enum Position/build/classes/java/main/
+/Control Flow/Enumeration/Enum Position/out/
+/Control Flow/Enumeration/Enumeration/build/
+/Control Flow/Enumeration/Enumeration/build/classes/java/main/
+/Control Flow/Enumeration/Enumeration/out/
+/Control Flow/Enumeration/Enumeration with When Expression/build/
+/Control Flow/Enumeration/Enumeration with When Expression/build/classes/java/main/
+/Control Flow/Enumeration/Enumeration with When Expression/out/
+/Control Flow/Enumeration/enumValues/build/
+/Control Flow/Enumeration/enumValues/build/classes/java/main/
+/Control Flow/Enumeration/enumValues/out/
+/Control Flow/Enumeration/valueOf/build/
+/Control Flow/Enumeration/valueOf/build/classes/java/main/
+/Control Flow/Enumeration/valueOf/out/
+/Control Flow/Expression and Statement/Expression/build/
+/Control Flow/Expression and Statement/Expression/build/classes/java/main/
+/Control Flow/Expression and Statement/Expression/out/
+/Control Flow/Expression and Statement/Statement/build/
+/Control Flow/Expression and Statement/Statement/build/classes/java/main/
+/Control Flow/Expression and Statement/Statement/out/
+/Control Flow/Latihan/Latihan/build/
+/Control Flow/Latihan/Latihan/build/classes/java/main/
+/Control Flow/Latihan/Latihan/out/
+/Control Flow/Latihan (1)/Latihan/out/
+/Control Flow/Range and For loop/For Loop/build/
+/Control Flow/Range and For loop/For Loop/build/classes/java/main/
+/Control Flow/Range and For loop/For Loop/out/
+/Control Flow/Range and For loop/For Loop Index/build/
+/Control Flow/Range and For loop/For Loop Index/build/classes/java/main/
+/Control Flow/Range and For loop/For Loop Index/out/
+/Control Flow/Range and For loop/For Loop with Range/build/
+/Control Flow/Range and For loop/For Loop with Range/build/classes/java/main/
+/Control Flow/Range and For loop/For Loop with Range/out/
+/Control Flow/Range and For loop/For Loop with Step Extension/build/
+/Control Flow/Range and For loop/For Loop with Step Extension/build/classes/java/main/
+/Control Flow/Range and For loop/For Loop with Step Extension/out/
+/Control Flow/Range and For loop/ForEach/build/
+/Control Flow/Range and For loop/ForEach/build/classes/java/main/
+/Control Flow/Range and For loop/ForEach/out/
+/Control Flow/Range and For loop/ForEachIndexed/build/
+/Control Flow/Range and For loop/ForEachIndexed/build/classes/java/main/
+/Control Flow/Range and For loop/ForEachIndexed/out/
+/Control Flow/Range and For loop/Range/build/
+/Control Flow/Range and For loop/Range/build/classes/java/main/
+/Control Flow/Range and For loop/Range/out/
+/Control Flow/Range and For loop/Range ForEach/build/
+/Control Flow/Range and For loop/Range ForEach/build/classes/java/main/
+/Control Flow/Range and For loop/Range ForEach/out/
+/Control Flow/Range and For loop/Range with `!in` Operator/out/
+/Control Flow/Range and For loop/Range with `in` Operator/build/
+/Control Flow/Range and For loop/Range with `in` Operator/build/classes/java/main/
+/Control Flow/Range and For loop/Range with `in` Operator/out/
+/Control Flow/When Expression/Multiple statement in Condition block/build/
+/Control Flow/When Expression/Multiple statement in Condition block/build/classes/java/main/
+/Control Flow/When Expression/Multiple statement in Condition block/out/
+/Control Flow/When Expression/When/build/
+/Control Flow/When Expression/When/build/classes/java/main/
+/Control Flow/When Expression/When/out/
+/Control Flow/When Expression/When as a Expression/build/
+/Control Flow/When Expression/When as a Expression/build/classes/java/main/
+/Control Flow/When Expression/When as a Expression/out/
+/Control Flow/When Expression/When subject/build/
+/Control Flow/When Expression/When subject/build/classes/java/main/
+/Control Flow/When Expression/When subject/out/
+/Control Flow/When Expression/When with `is` operator/build/
+/Control Flow/When Expression/When with `is` operator/build/classes/java/main/
+/Control Flow/When Expression/When with `is` operator/out/
+/Control Flow/When Expression/When with Else block/build/
+/Control Flow/When Expression/When with Else block/build/classes/java/main/
+/Control Flow/When Expression/When with Else block/out/
+/Control Flow/When Expression/When with Range as a Condition/build/
+/Control Flow/When Expression/When with Range as a Condition/build/classes/java/main/
+/Control Flow/When Expression/When with Range as a Condition/out/
+/Control Flow/While and Do While/Do While/build/
+/Control Flow/While and Do While/Do While/build/classes/java/main/
+/Control Flow/While and Do While/Do While/out/
+/Control Flow/While and Do While/Infinite While/build/
+/Control Flow/While and Do While/Infinite While/build/classes/java/main/
+/Control Flow/While and Do While/Infinite While/out/
+/Control Flow/While and Do While/While/build/
+/Control Flow/While and Do While/While/build/classes/java/main/
+/Control Flow/While and Do While/While/out/
+/Coroutines/Channels/Contoh/out/
+/Coroutines/Coroutine Dispatcher/Dispatcher.Default/out/
+/Coroutines/Coroutine Dispatcher/Dispatcher.IO/out/
+/Coroutines/Coroutine Dispatcher/Dispatcher.Unconfined/out/
+/Coroutines/Coroutine Dispatcher/Single Thread Context/out/
+/Coroutines/Coroutine Dispatcher/Thread Pool/out/
+/Coroutines/Job dan Deferred/Contoh 1/out/
+/Coroutines/Job dan Deferred/Contoh 2/out/
+/Coroutines/Job dan Deferred/Contoh 3/out/
+/Coroutines/Job dan Deferred/Contoh 4/out/
+/Coroutines/Job dan Deferred/Contoh 5/out/
+/Coroutines/latihan/Latihan/out/
+/Coroutines/latihan (1)/Latihan/out/
+/Coroutines/Memulai Coroutine/Contoh 1/out/
+/Coroutines/Memulai Coroutine/Contoh 2/out/
+/Coroutines/Memulai Coroutine/Contoh 3/out/
+/Data Class dan Collections/Collections/Collections/build/
+/Data Class dan Collections/Collections/Collections/build/classes/java/main/
+/Data Class dan Collections/Collections/Collections/out/
+/Data Class dan Collections/Collections/Maps/build/
+/Data Class dan Collections/Collections/Maps/build/classes/java/main/
+/Data Class dan Collections/Collections/Maps/out/
+/Data Class dan Collections/Collections/Sets/build/
+/Data Class dan Collections/Collections/Sets/build/classes/java/main/
+/Data Class dan Collections/Collections/Sets/out/
+/Data Class dan Collections/Collections Operations/count/build/
+/Data Class dan Collections/Collections Operations/count/build/classes/java/main/
+/Data Class dan Collections/Collections Operations/count/out/
+/Data Class dan Collections/Collections Operations/filter and filterNot/build/
+/Data Class dan Collections/Collections Operations/filter and filterNot/build/classes/java/main/
+/Data Class dan Collections/Collections Operations/filter and filterNot/out/
+/Data Class dan Collections/Collections Operations/find/build/
+/Data Class dan Collections/Collections Operations/find/build/classes/java/main/
+/Data Class dan Collections/Collections Operations/find/out/
+/Data Class dan Collections/Collections Operations/first/out/
+/Data Class dan Collections/Collections Operations/map/build/
+/Data Class dan Collections/Collections Operations/map/build/classes/java/main/
+/Data Class dan Collections/Collections Operations/map/out/
+/Data Class dan Collections/Collections Operations/sorted/build/
+/Data Class dan Collections/Collections Operations/sorted/build/classes/java/main/
+/Data Class dan Collections/Collections Operations/sorted/out/
+/Data Class dan Collections/Collections Operations/sum/build/
+/Data Class dan Collections/Collections Operations/sum/build/classes/java/main/
+/Data Class dan Collections/Collections Operations/sum/out/
+/Data Class dan Collections/Data Class/Comparing data class/build/
+/Data Class dan Collections/Data Class/Comparing data class/build/classes/java/main/
+/Data Class dan Collections/Data Class/Comparing data class/out/
+/Data Class dan Collections/Data Class/Copying data class objects/build/
+/Data Class dan Collections/Data Class/Copying data class objects/build/classes/java/main/
+/Data Class dan Collections/Data Class/Copying data class objects/out/
+/Data Class dan Collections/Data Class/Create variables based on data class objects/build/
+/Data Class dan Collections/Data Class/Create variables based on data class objects/build/classes/java/main/
+/Data Class dan Collections/Data Class/Create variables based on data class objects/out/
+/Data Class dan Collections/Data Class/Data Class/build/
+/Data Class dan Collections/Data Class/Data Class/build/classes/java/main/
+/Data Class dan Collections/Data Class/Data Class/out/
+/Data Class dan Collections/Data Class/Destructuring Declarations/build/
+/Data Class dan Collections/Data Class/Destructuring Declarations/build/classes/java/main/
+/Data Class dan Collections/Data Class/Destructuring Declarations/out/
+/Data Class dan Collections/Data Class/Different data class with class/build/
+/Data Class dan Collections/Data Class/Different data class with class/build/classes/java/main/
+/Data Class dan Collections/Data Class/Different data class with class/out/
+/Data Class dan Collections/Data Class/Modify the data class object/build/
+/Data Class dan Collections/Data Class/Modify the data class object/build/classes/java/main/
+/Data Class dan Collections/Data Class/Modify the data class object/out/
+/Data Class dan Collections/Latihan/latihan/out/
+/Data Class dan Collections/Latihan (1)/latihan/out/
+/Data Class dan Collections/Sequences/Sequences Initialization/out/
+/Data Class dan Collections/Sequences/Sequences Initialization with generateSequence/out/
+/Functional/Advanced Collection Function/Distinct/out/
+/Functional/Advanced Collection Function/Drop/out/
+/Functional/Advanced Collection Function/Fold/out/
+/Functional/Advanced Collection Function/Slice/out/
+/Functional/Advanced Collection Function/Take/build/
+/Functional/Advanced Collection Function/Take/build/classes/java/main/
+/Functional/Advanced Collection Function/Take/out/
+/Functional/Extensions/Contoh 1/out/
+/Functional/Extensions/Contoh 2/out/
+/Functional/Extensions/Contoh 3/out/
+/Functional/Extensions/Contoh 4/out/
+/Functional/Function Inside Function/Inner function/out/
+/Functional/Function Type/Contoh 1/out/
+/Functional/Function Type/Contoh 2/out/
+/Functional/Function Type/Contoh 3/out/
+/Functional/Lambda/Contoh 1/out/
+/Functional/Lambda/Contoh 2/out/
+/Functional/Lambda/Contoh 3/out/
+/Functional/Lambda/Contoh 4/out/
+/Functional/Lambda/Contoh 5/out/
+/Functional/Latihan/Latihan (1)/build/
+/Functional/Latihan/Latihan (1)/build/classes/java/main/
+/Functional/Latihan/Latihan (1)/out/
+/Functional/Library Helper/also/out/
+/Functional/Library Helper/apply/out/
+/Functional/Library Helper/let/out/
+/Functional/Library Helper/run/out/
+/Functional/Library Helper/with/out/
+/Functional/Member References/Function References/out/
+/Functional/Member References/Property References/out/
+/Functional/Named and Default Argument/Contoh 1/build/
+/Functional/Named and Default Argument/Contoh 1/build/classes/java/main/
+/Functional/Named and Default Argument/Contoh 1/out/
+/Functional/Named and Default Argument/Contoh 2/build/
+/Functional/Named and Default Argument/Contoh 2/build/classes/java/main/
+/Functional/Named and Default Argument/Contoh 2/out/
+/Functional/Named and Default Argument/Contoh 3/build/
+/Functional/Named and Default Argument/Contoh 3/build/classes/java/main/
+/Functional/Named and Default Argument/Contoh 3/out/
+/Functional/Named and Default Argument/Contoh 4/out/
+/Functional/Recursion/Recursion Initilization/out/
+/Functional/Recursion/Tail Recursion/out/
+/Functional/Scope Function with Lambda Argument/also/out/
+/Functional/Scope Function with Lambda Argument/let/out/
+/Functional/Scope Function with Lambda Receiver/apply/out/
+/Functional/Scope Function with Lambda Receiver/run/out/
+/Functional/Scope Function with Lambda Receiver/with/out/
+/Functional/Vararg Argument/Contoh 1/out/
+/Functional/Vararg Argument/Contoh 2/out/
+/Functional/Vararg Argument/Contoh 3/out/
+/Generics/Generics/Contoh 1/out/
+/Generics/Generics/Contoh 2/out/
+/Generics/Generics/Contoh 3/out/
+/Generics/Latihan/Latihan (1)/out/
+/Generics/Variance/Contoh/out/
+/Kotlin Fundamental/Boolean/Conjuction/build/
+/Kotlin Fundamental/Boolean/Conjuction/build/classes/java/main/
+/Kotlin Fundamental/Boolean/Conjuction/out/
+/Kotlin Fundamental/Boolean/Disjunction/build/
+/Kotlin Fundamental/Boolean/Disjunction/build/classes/java/main/
+/Kotlin Fundamental/Boolean/Disjunction/out/
+/Kotlin Fundamental/Boolean/Negation/out/
+/Kotlin Fundamental/Data Type/Array Initialization/build/
+/Kotlin Fundamental/Data Type/Array Initialization/build/classes/java/main/
+/Kotlin Fundamental/Data Type/Array Initialization/out/
+/Kotlin Fundamental/Data Type/Char in String/build/
+/Kotlin Fundamental/Data Type/Char in String/build/classes/java/main/
+/Kotlin Fundamental/Data Type/Char in String/out/
+/Kotlin Fundamental/Data Type/Character/build/
+/Kotlin Fundamental/Data Type/Character/build/classes/java/main/
+/Kotlin Fundamental/Data Type/Character/out/
+/Kotlin Fundamental/Data Type/Escaped String/build/
+/Kotlin Fundamental/Data Type/Escaped String/build/classes/java/main/
+/Kotlin Fundamental/Data Type/Escaped String/out/
+/Kotlin Fundamental/Data Type/Raw String/build/
+/Kotlin Fundamental/Data Type/Raw String/build/classes/java/main/
+/Kotlin Fundamental/Data Type/Raw String/out/
+/Kotlin Fundamental/Data Type/String/build/
+/Kotlin Fundamental/Data Type/String/build/classes/java/main/
+/Kotlin Fundamental/Data Type/String/out/
+/Kotlin Fundamental/Data Type/Unicode String/build/
+/Kotlin Fundamental/Data Type/Unicode String/build/classes/java/main/
+/Kotlin Fundamental/Data Type/Unicode String/out/
+/Kotlin Fundamental/Data Type/Update Array/build/
+/Kotlin Fundamental/Data Type/Update Array/build/classes/java/main/
+/Kotlin Fundamental/Data Type/Update Array/out/
+/Kotlin Fundamental/Function/Function Initilization/build/
+/Kotlin Fundamental/Function/Function Initilization/build/classes/java/main/
+/Kotlin Fundamental/Function/Function Initilization/out/
+/Kotlin Fundamental/Hello Kotlin/Hello Kotlin 1/build/
+/Kotlin Fundamental/Hello Kotlin/Hello Kotlin 1/build/classes/java/main/
+/Kotlin Fundamental/Hello Kotlin/Hello Kotlin 1/out/
+/Kotlin Fundamental/Hello Kotlin/Hello Kotlin 2/build/
+/Kotlin Fundamental/Hello Kotlin/Hello Kotlin 2/build/classes/java/main/
+/Kotlin Fundamental/Hello Kotlin/Hello Kotlin 2/out/
+/Kotlin Fundamental/If Expression/If/build/
+/Kotlin Fundamental/If Expression/If/build/classes/java/main/
+/Kotlin Fundamental/If Expression/If/out/
+/Kotlin Fundamental/If Expression/If as a Expression/out/
+/Kotlin Fundamental/If Expression/If Else/build/
+/Kotlin Fundamental/If Expression/If Else/build/classes/java/main/
+/Kotlin Fundamental/If Expression/If Else/out/
+/Kotlin Fundamental/If Expression/If Else If/build/
+/Kotlin Fundamental/If Expression/If Else If/build/classes/java/main/
+/Kotlin Fundamental/If Expression/If Else If/out/
+/Kotlin Fundamental/Latihan/Latihan (1)/out/
+/Kotlin Fundamental/Nullable Types/Nullable Types/build/
+/Kotlin Fundamental/Nullable Types/Nullable Types/build/classes/java/main/
+/Kotlin Fundamental/Nullable Types/Nullable Types/out/
+/Kotlin Fundamental/Numbers/Number Initilization/build/
+/Kotlin Fundamental/Numbers/Number Initilization/build/classes/java/main/
+/Kotlin Fundamental/Numbers/Number Initilization/out/
+/Kotlin Fundamental/Numbers/Number operation/build/
+/Kotlin Fundamental/Numbers/Number operation/build/classes/java/main/
+/Kotlin Fundamental/Numbers/Number operation/out/
+/Kotlin Fundamental/Numbers/Number with max and min values/build/
+/Kotlin Fundamental/Numbers/Number with max and min values/build/classes/java/main/
+/Kotlin Fundamental/Numbers/Number with max and min values/out/
+/Kotlin Fundamental/Numbers/String to Number/build/
+/Kotlin Fundamental/Numbers/String to Number/build/classes/java/main/
+/Kotlin Fundamental/Numbers/String to Number/out/
+/Kotlin Fundamental/Safe Call and Elvis Operator/Elvis Operator/build/
+/Kotlin Fundamental/Safe Call and Elvis Operator/Elvis Operator/build/classes/java/main/
+/Kotlin Fundamental/Safe Call and Elvis Operator/Elvis Operator/out/
+/Kotlin Fundamental/Safe Call and Elvis Operator/Safe Call Operator/build/
+/Kotlin Fundamental/Safe Call and Elvis Operator/Safe Call Operator/build/classes/java/main/
+/Kotlin Fundamental/Safe Call and Elvis Operator/Safe Call Operator/out/
+/Kotlin Fundamental/String Template/String Template/build/
+/Kotlin Fundamental/String Template/String Template/build/classes/java/main/
+/Kotlin Fundamental/String Template/String Template/out/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 1/build/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 1/build/classes/java/main/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 1/out/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2/build/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2/build/classes/java/main/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2/out/
+/Membangun dan Menjalankan Program Kotlin/Program Pertama Kotlin/Hello Kotlin/build/
+/Membangun dan Menjalankan Program Kotlin/Program Pertama Kotlin/Hello Kotlin/build/classes/java/main/
+/Membangun dan Menjalankan Program Kotlin/Program Pertama Kotlin/Hello Kotlin/out/
+/Object-Oriented/Abstract Class/Contoh/out/
+/Object-Oriented/Classes/Contoh/out/
+/Object-Oriented/Constructor/Contoh 1/out/
+/Object-Oriented/Constructor/Contoh 2/out/
+/Object-Oriented/Constructor/Contoh 3/out/
+/Object-Oriented/Constructor/Contoh 4/out/
+/Object-Oriented/Exception Handling/Contoh 1/out/
+/Object-Oriented/Exception Handling/Contoh 2/out/
+/Object-Oriented/Exception Handling/Contoh 3/out/
+/Object-Oriented/Extension Properties/Contoh/out/
+/Object-Oriented/Import dan Packages/Contoh 1/out/
+/Object-Oriented/Import dan Packages/Contoh 2/out/
+/Object-Oriented/Import dan Packages/Contoh 3/out/
+/Object-Oriented/Inheritances/Contoh/out/
+/Object-Oriented/Interfaces/Contoh/out/
+/Object-Oriented/Latihan/Latihan/out/
+/Object-Oriented/Latihan (1)/Latihan/out/
+/Object-Oriented/Object Everywhere/Contoh 1/out/
+/Object-Oriented/Object Everywhere/Contoh 2/build/
+/Object-Oriented/Object Everywhere/Contoh 2/build/classes/java/main/
+/Object-Oriented/Object Everywhere/Contoh 2/out/
+/Object-Oriented/Overloading/Contoh/out/
+/Object-Oriented/Properties/Contoh/out/
+/Object-Oriented/Property Delegation/Contoh/out/
+/Object-Oriented/Visibility Modifiers/internal/out/
+/Object-Oriented/Visibility Modifiers/private/out/
+/Object-Oriented/Visibility Modifiers/protected/out/
+/Object-Oriented/Visibility Modifiers/public/out/
